@@ -1,0 +1,5 @@
+Distance = 157.459054278441
+Witnessing point are 
+t1 = 43.8073357611943  Point on first curve is (847.056271564807, 376.854149469552)
+t2 = 47.2240017801255  Point on second curve is (866.107009817372, 533.156494769593)
+Doesn't look like intersection

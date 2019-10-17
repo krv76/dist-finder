@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="canvas" width="2000" height="2000">
+ 
+  <style type="text/css">
+      .curveA{stroke: #ff0000;stroke-width: 1; fill: none;}
+	  .curveB{stroke: #0000ff;stroke-width: 1; fill: none;}
+	  .link{stroke: #CC00CC;stroke-width:1.5; fill: none;}
+	  .Point{stroke: none; fill: #000000;}
+	  .Intersect{stroke: #FF00FF;stroke-width: 2; fill: #FF00FF;}
+	  .BGR{stroke: none; fill: #dddddd;}
+  </style>
+  <rect class="BGR" width="1000" height="1000"/>
+  
